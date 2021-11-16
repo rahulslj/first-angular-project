@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "mobile": "7404415655",
+      "address": "#Noida",
+      "services": "tea"
+    },
+    {
+      "id": 3,
+      "name": "Pankaj",
+      "email": "pankaj@gm.com",
+      "mobile": "7412580369",
+      "address": "#321 Noida",
+      "services": "Coffee"
+    },
+    {
+      "id": 4,
+      "name": "test",
+      "email": "test@gmail.com",
+      "mobile": "9870456123",
+      "address": "#Gopalganj",
+      "services": "Veg"
+    },
+    {
+      "id": 5,
+      "name": "fdds",
+      "email": "cdcds",
+      "mobile": "dcfdsdfds",
+      "address": "dsfsddfs",
+      "services": "dfds"
+    },
+    {
+      "id": 6,
+      "name": "abc",
+      "email": "xzy@gmail.com",
+      "mobile": "1023654789",
+      "address": "#Delhi",
+      "services": "Non Veg"
+    },
+    {
+      "id": 7,
+      "name": "Rahul Kumar",
+      "email": "rahulsljmail@gmail.com",
+      "mobile": "7979723151",
+      "address": "New Delhi",
+      "services": "Chicken"
+    },
+    {
+      "id": 8,
+      "name": "rahul kumar",
+      "email": "rahul@kumar.com",
+      "mobile": "7404415655`",
+      "address": "chd",
+      "services": "matan"
+    }
+  ],
+  "signup": [
+    {
+      "name": "rahul",
+      "mobile": "9708404080",
+      "email": "pankaj@gmail.com",
+      "password": "abcd",
+      "id": 1
+    },
+    {
+      "name": "Rahul Kumar",
+      "mobile": "7404415655",
+      "email": "rahul@gmail.com",
+      "password": "abcd",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
